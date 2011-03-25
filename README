@@ -1,0 +1,20 @@
+Canvas Red Plane
+
+Its a little red plane which can be controlled by the arrow keys.
+
+Other than that, you can pause and shoot. ( Shooting and dropping bombs only works so far as it logs to the console )
+
+It is a concept and also a learning exercise as I explore how to use canvas in the browser.
+
+
+Credits:
+07.no for Hugin
+
+Working with "fellow workers" on Canvas-Turret.
+https://github.com/lafka/canvas-turrets
+
+w3 HTHML Canvas 2D Context
+http://dev.w3.org/html5/2dcontext/
+
+This answer on stackoverflow which pointed me in the direction of using x,y from inkscape in the form of plot.
+http://stackoverflow.com/questions/4839993/how-can-i-draw-polygons-on-an-html5-canvas/4841057#4841057
